@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Syed Salman Ali Zaidi",
-  title: "Next.js Developer | Machine Learning Engineer | Data Scientist ",
+  title: "Machine Learning Engineer | Data Scientist ",
   email: "Salman.Zaidi@studentambassadors.com",
   gitHub: "https://github.com/SyedSalman007",
   instagram: "https://www.instagram.com/salmanzaidi007/",
