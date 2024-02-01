@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/Portfolio.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Desk with three dairies, tablet and coffee mug.";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Elevate Your Skills with These Python Projects!",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Enhance your Python skills with diverse projects. Elevate your coding expertise through hands-on challenges.",
+    url: "https://github.com/SyedSalman007/python_projects.git",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Simon Game",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Embark on a thrilling challenge of memory prowess with this engaging Simon game! Test and enhance your memory power as you tackle the exciting tasks within. Are you ready to take on the ultimate challenge of recalling patterns and sequences?",
+    url: "https://syedsalman007.github.io/Simon_Game/",
   },
   {
-    title: "My Resume Site",
+    title: "Master SQL by solving leetcode code interview questions.",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Elevate your understanding of SQL concepts by delving into interactive LeetCode SQL question-solving videos. Immerse yourself in a dynamic learning experience as you unravel the intricacies of SQL challenges. Sharpen your SQL skills and boost your problem-solving capabilities with these engaging tutorials.",
+    url: "https://youtube.com/playlist?list=PLQkFg_umR4aNDs6-xykgGJMDlGSLeMC-Q&si=6sy0sP2-Q7Fpvgze",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Elevate Your TypeScript Skills with These Innovative TypeScript Projects for Advanced Programming",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Elevate your TypeScript programming skills by immersing yourself in these advanced TypeScript projects. These hands-on endeavors will not only deepen your understanding of TypeScript but also empower you to tackle more complex programming tasks. Ready to enhance your coding expertise?",
+    url: "https://github.com/SyedSalman007/typescript-all-project-Q1.git",
   },
 ];
 
